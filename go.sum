@@ -1,0 +1,8 @@
+github.com/psilva261/timsort v1.0.0 h1:vN1NBPJU21gJot1ZkwoRLoxl+X7r9C+6VyVn0Y1i7KM=
+github.com/psilva261/timsort v1.0.0/go.mod h1:x3tWJZU1tqg1f9WOmLcifuQ2kKjl1O8FwYGtm4PIwjc=
+github.com/psilva261/timsort/v2 v2.0.0 h1:w7ePtcPItveXl/xu4Nae6S6p9/bTfo+swTXixfU7hBg=
+github.com/psilva261/timsort/v2 v2.0.0/go.mod h1:NB+lnymkBaIJSJ376BB0n0LsdmqpWeG+w3KnzJ1ELqM=
+github.com/tidwall/geoindex v1.4.0 h1:6O8bwdRrNDwLzPSb6AhuyBW27PSa24Pa4I70fnoiBGI=
+github.com/tidwall/geoindex v1.4.0/go.mod h1:3gTa91BW+eiVIipuR6aU1Y9Sa0q75b1teE/NP2vfsTc=
+github.com/tidwall/rbang v1.2.1 h1:Nuym/kQCg8mUKEd/caa81NJBlXoNUvzFQt+R8JuL2/I=
+github.com/tidwall/rbang v1.2.1/go.mod h1:aMGOM1Wj50tooEO/0aO9j+7gyHUs3bUW0t4Q+xiuOjg=
